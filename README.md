@@ -4,7 +4,7 @@ class yoxill(ReadMe):
     "/yoxill/yoxill/README.md"
 
     def __init__(self):
-        self.name = "gabriel"
+        self.name = "yoxill"
             "Discord": "yoxill#9999",
             "Twitter": "yoxill"
         }
