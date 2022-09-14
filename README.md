@@ -1,5 +1,4 @@
 ```py
-from GitHub import ReadMe
 
 class yoxill(ReadMe):
     "/yoxill/yoxill/README.md"
