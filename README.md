@@ -1,8 +1,15 @@
+```py
+from GitHub import ReadMe
+
+class Alpha(ReadMe):
+    "/doente/doente/README.md"
+
     def __init__(self):
-        self.name = "Gabriel"
+        self.name = "Gustavo"
         self.contacts = {
-            "Discord": "yoxill#9999",
-            "Twitter": "yoxill"
+            "Discord": "gu#0001",
+            "Twitter": "strunged"
         }
-        self.location = "Brasil"
-        self.occupation = "Programmer"
+        self.location = "Santa Catarina - Brasil"
+        self.age = 17
+        self.occupation = "Freelance Developer"
