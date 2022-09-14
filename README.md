@@ -9,5 +9,5 @@ class yoxill(ReadMe):
             "Discord": "yoxill#9999",
             "Twitter": "yoxill"
         }
-        self.location = "Brasil"
+        self.location = "Brazil"
         self.occupation = "Programmer"
