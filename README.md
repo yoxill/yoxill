@@ -1,7 +1,3 @@
-from GitHub import ReadMe
-
-class Alpha(ReadMe):
-    "/doente/doente/README.md"
 
     def __init__(self):
         self.name = "Gustavo"
