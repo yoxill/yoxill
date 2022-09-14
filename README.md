@@ -9,4 +9,4 @@ class yoxill(ReadMe):
             "Twitter": "yoxill"
         }
         self.location = "Brazil"
-        self.occupation = "Programmer"
+        self.occupation = "T.I"
