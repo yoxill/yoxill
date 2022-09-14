@@ -5,7 +5,6 @@ class yoxill(ReadMe):
 
     def __init__(self):
         self.name = "Gabriel"
-        self.contacts = {
             "Discord": "yoxill#9999",
             "Twitter": "yoxill"
         }
