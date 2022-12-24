@@ -5,7 +5,6 @@ class yoxill(ReadMe):
 
     def __init__(self):
         self.name = "yox"
-      
         }
         self.location = "null"
         self.occupation = "null"
